@@ -295,3 +295,7 @@ fn main() raises:
 ## License
 
 MIT
+
+## Part of mojo-contrib
+
+This library is part of [mojo-contrib](https://github.com/atsentia/mojo-contrib), a collection of pure Mojo libraries.
