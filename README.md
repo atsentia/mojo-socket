@@ -294,7 +294,7 @@ fn main() raises:
 
 ## License
 
-MIT
+Apache 2.0
 
 ## Part of mojo-contrib
 
